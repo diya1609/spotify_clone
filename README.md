@@ -63,6 +63,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+![Screenshot (266)](https://github.com/diya1609/spotify_clone/assets/78993158/5eaa4cdb-679c-4321-80dc-da72b9c800d3)
+![Screenshot (267)](https://github.com/diya1609/spotify_clone/assets/78993158/4e962558-e522-4d74-a86f-c7a2adcab03c)
+![Screenshot (268)](https://github.com/diya1609/spotify_clone/assets/78993158/858ec159-faae-4e66-a0cd-5d3d5b82798c)
+![Screenshot (269)](https://github.com/diya1609/spotify_clone/assets/78993158/b784f1a8-3f1a-47de-bd6a-72ab793d6fff)
+
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
